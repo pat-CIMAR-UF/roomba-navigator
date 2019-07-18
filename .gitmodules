@@ -1,0 +1,3 @@
+[submodule "scanse-driver"]
+	path = scanse-driver
+	url = https://github.com/scanse/sweep-ros.git
